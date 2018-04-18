@@ -1,0 +1,15 @@
+# This program would decide the gameplan of DBZ
+
+1. Players
+   goku
+   gohan
+   vegeta
+
+3. Scene
+   Enter Arena
+   stage1
+   stage2
+   stage3
+
+3. Collect DB
+   Win a match and get the DB
