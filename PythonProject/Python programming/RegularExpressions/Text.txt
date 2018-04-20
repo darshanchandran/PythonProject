@@ -1,0 +1,10 @@
+edcdcdc@R9039CAX MINGW64 /c/My Doc/DevOps/PythonGit (dev)
+$ git push  https://github.com/darshanchandran/PythonProject.git dev
+fatal: NullReferenceException encountered.
+   Object reference not set to an instance of an object.
+Username for 'https://github.com': darshansa@gmail.com
+fatal: NullReferenceException encountered.
+   Object reference not set to an instance of an object.
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/darshanchandran/PythonProject.git/'
+

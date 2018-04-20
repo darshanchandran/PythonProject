@@ -11,8 +11,13 @@ class Readfile(object):
         readitem = openitem.read()
         # print(openitem.read())
 
-        matches = re.findall(r'\d{1}', readitem)
+        matches = re.findall(r'\d{1,1}', readitem)
+        wordmatch = re.findall(r'\D{darshan}',readitem)
         print(matches)
+        print(wordmatch)
+
+        for i in matches:
+            print(i)
         openitem.close()
 
 
